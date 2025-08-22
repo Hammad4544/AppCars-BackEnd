@@ -1,0 +1,11 @@
+D:\Hammad\App_VS\APPCar\AppCar.Date\bin\Debug\net8.0\AppCar.Date.deps.json
+D:\Hammad\App_VS\APPCar\AppCar.Date\bin\Debug\net8.0\AppCar.Date.dll
+D:\Hammad\App_VS\APPCar\AppCar.Date\bin\Debug\net8.0\AppCar.Date.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.AssemblyInfoInputs.cache
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.AssemblyInfo.cs
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.csproj.CoreCompileInputs.cache
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.dll
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\refint\AppCar.Date.dll
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\ref\AppCar.Date.dll

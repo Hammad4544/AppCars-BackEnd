@@ -1,0 +1,17 @@
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.Service.deps.json
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.Service.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.Service.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.Date.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.infrustrcture.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.Date.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Service\bin\Debug\net8.0\AppCar.infrustrcture.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.csproj.AssemblyReference.cache
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.AssemblyInfoInputs.cache
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.AssemblyInfo.cs
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.csproj.CoreCompileInputs.cache
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.S.2C11990F.Up2Date
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\refint\AppCar.Service.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.pdb
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\ref\AppCar.Service.dll
