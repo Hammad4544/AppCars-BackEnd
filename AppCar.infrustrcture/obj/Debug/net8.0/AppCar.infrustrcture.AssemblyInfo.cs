@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCar.infrustrcture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5da0c2428bc071802a91d394170448c8896bbdd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCar.infrustrcture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCar.infrustrcture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

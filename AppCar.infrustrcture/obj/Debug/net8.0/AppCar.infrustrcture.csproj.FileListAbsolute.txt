@@ -15,3 +15,4 @@ D:\Hammad\App_VS\APPCar\AppCar.infrustrcture\obj\Debug\net8.0\AppCar.infrustrctu
 D:\Hammad\App_VS\APPCar\AppCar.infrustrcture\obj\Debug\net8.0\ref\AppCar.infrustrcture.dll
 D:\Hammad\App_VS\APPCar\AppCar.infrustrcture\bin\Debug\net8.0\AppCar.infrustrcture.runtimeconfig.json
 D:\Hammad\App_VS\APPCar\AppCar.infrustrcture\obj\Debug\net8.0\AppCar.infrustrcture.genruntimeconfig.cache
+D:\Hammad\App_VS\APPCar\AppCar.infrustrcture\obj\Debug\net8.0\AppCar.infrustrcture.sourcelink.json

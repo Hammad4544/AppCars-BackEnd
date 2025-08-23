@@ -9,3 +9,4 @@ D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.dll
 D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\refint\AppCar.Date.dll
 D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.pdb
 D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\ref\AppCar.Date.dll
+D:\Hammad\App_VS\APPCar\AppCar.Date\obj\Debug\net8.0\AppCar.Date.sourcelink.json

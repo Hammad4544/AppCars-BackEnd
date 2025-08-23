@@ -27,7 +27,7 @@ namespace AppCar.infrustructure.Data
         public DbSet<OrderItem> OrderItems { get; set; } = null!;
         public DbSet<Category> Categories { get; set; } = null!;
         public DbSet<CAR> Cars { get; set; } = null!;
-
+        public DbSet<Notification> Notifications { get; set; } = null!;
 
 
     }

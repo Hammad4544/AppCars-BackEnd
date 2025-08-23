@@ -1,4 +1,7 @@
 
+using AppCar.infrustrcture;
+using AppCar.infrustrcture.Irepos;
+using AppCar.infrustrcture.Repos;
 using AppCar.infrustructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,6 +24,8 @@ namespace APPCar.Api
             // connrction string for the database
             builder.Services.AddDbContext<ApplicationDBContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            // Repositories
+            builder.Services.AddInfrustrctureDependencies();
 
             var app = builder.Build();
 

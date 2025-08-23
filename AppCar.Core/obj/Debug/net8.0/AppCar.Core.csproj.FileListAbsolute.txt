@@ -17,3 +17,4 @@ D:\Hammad\App_VS\APPCar\AppCar.Core\obj\Debug\net8.0\AppCar.Core.dll
 D:\Hammad\App_VS\APPCar\AppCar.Core\obj\Debug\net8.0\refint\AppCar.Core.dll
 D:\Hammad\App_VS\APPCar\AppCar.Core\obj\Debug\net8.0\AppCar.Core.pdb
 D:\Hammad\App_VS\APPCar\AppCar.Core\obj\Debug\net8.0\ref\AppCar.Core.dll
+D:\Hammad\App_VS\APPCar\AppCar.Core\obj\Debug\net8.0\AppCar.Core.sourcelink.json

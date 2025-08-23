@@ -15,3 +15,4 @@ D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.dll
 D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\refint\AppCar.Service.dll
 D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.pdb
 D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\ref\AppCar.Service.dll
+D:\Hammad\App_VS\APPCar\AppCar.Service\obj\Debug\net8.0\AppCar.Service.sourcelink.json
