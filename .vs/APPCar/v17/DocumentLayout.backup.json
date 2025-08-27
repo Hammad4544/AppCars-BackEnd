@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\Hammad\\App_VS\\APPCar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|d:\\hammad\\app_vs\\appcar\\appcar.service\\iservice\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|solutionrelative:appcar.service\\iservice\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|d:\\hammad\\app_vs\\appcar\\appcar.service\\service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|solutionrelative:appcar.service\\service\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|d:\\hammad\\app_vs\\appcar\\appcar.service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|solutionrelative:appcar.service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|d:\\hammad\\app_vs\\appcar\\appcar.service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|solutionrelative:appcar.service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\moduleinfrustrcturedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\moduleinfrustrcturedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|d:\\hammad\\app_vs\\appcar\\appcar.service\\appcar.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0967C047-9024-446C-96A0-686B7FB26FB8}|AppCar.Service\\AppCar.Service.csproj|solutionrelative:appcar.service\\appcar.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12955ED-FC72-46FB-97A9-2129F81F1AB4}|AppCar.Date\\AppCar.Date.csproj|d:\\hammad\\app_vs\\appcar\\appcar.date\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12955ED-FC72-46FB-97A9-2129F81F1AB4}|AppCar.Date\\AppCar.Date.csproj|solutionrelative:appcar.date\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\irepos\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\irepos\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12955ED-FC72-46FB-97A9-2129F81F1AB4}|AppCar.Date\\AppCar.Date.csproj|d:\\hammad\\app_vs\\appcar\\appcar.date\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12955ED-FC72-46FB-97A9-2129F81F1AB4}|AppCar.Date\\AppCar.Date.csproj|solutionrelative:appcar.date\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +54,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250823192529_add notification.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Migrations\\20250823192529_add notification.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T19:25:29.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAABHAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "AppCar.Service\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\Service\\ProductService.cs",
+              "RelativeToolTip": "AppCar.Service\\Service\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T19:22:13.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotificationRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\NotificationRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\NotificationRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\NotificationRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\NotificationRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T19:19:05.194Z",
+              "WhenOpened": "2025-08-27T15:13:28.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\OrderRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\OrderRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\OrderRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwC4AAAA7AAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "AppCar.Service\\IService\\IProductService.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\IService\\IProductService.cs",
+              "RelativeToolTip": "AppCar.Service\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T19:13:04.62Z",
+              "WhenOpened": "2025-08-27T15:03:08.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BidRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\BidRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\BidRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\BidRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\BidRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAAUAAAAAAAAAA==",
+              "Title": "ModuleInfrustrctureDependencies.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\ModuleInfrustrctureDependencies.cs",
+              "RelativeDocumentMoniker": "AppCar.infrustrcture\\ModuleInfrustrctureDependencies.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\ModuleInfrustrctureDependencies.cs",
+              "RelativeToolTip": "AppCar.infrustrcture\\ModuleInfrustrctureDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T19:01:47.327Z",
+              "WhenOpened": "2025-08-27T14:59:58.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\ProductRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\ProductRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\ProductRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
+              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T18:50:22.725Z",
+              "WhenOpened": "2025-08-27T14:53:03.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\Service\\CarService.cs",
+              "RelativeDocumentMoniker": "AppCar.Service\\Service\\CarService.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\Service\\CarService.cs",
+              "RelativeToolTip": "AppCar.Service\\Service\\CarService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA7wEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:11:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\IService\\ICarService.cs",
+              "RelativeDocumentMoniker": "AppCar.Service\\IService\\ICarService.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\IService\\ICarService.cs",
+              "RelativeToolTip": "AppCar.Service\\IService\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:09:14.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\CategoryRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CategoryRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\CategoryRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA5wC4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T18:44:13.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuctionRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T18:30:53.397Z",
+              "Title": "AppCar.Service",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\AppCar.Service.csproj",
+              "RelativeDocumentMoniker": "AppCar.Service\\AppCar.Service.csproj",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Service\\AppCar.Service.csproj*",
+              "RelativeToolTip": "AppCar.Service\\AppCar.Service.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T14:08:44.003Z",
               "EditorCaption": ""
             },
             {
@@ -158,16 +153,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAzwDEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Date\\Entities\\Bid.cs",
+              "RelativeDocumentMoniker": "AppCar.Date\\Entities\\Bid.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Date\\Entities\\Bid.cs",
+              "RelativeToolTip": "AppCar.Date\\Entities\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T17:37:24.125Z",
+              "WhenOpened": "2025-08-24T17:11:58.573Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Date\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "AppCar.Date\\Entities\\Auction.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Date\\Entities\\Auction.cs",
+              "RelativeToolTip": "AppCar.Date\\Entities\\Auction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:09:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuctionRepository.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Irepos\\IAuctionRepository.cs",
+              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Irepos\\IAuctionRepository.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Irepos\\IAuctionRepository.cs",
+              "RelativeToolTip": "AppCar.infrustrcture\\Irepos\\IAuctionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:10:57.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuctionRepository.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
+              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
+              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\AuctionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:11:48.618Z"
             }
           ]
         }

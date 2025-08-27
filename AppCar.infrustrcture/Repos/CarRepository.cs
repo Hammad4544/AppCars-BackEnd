@@ -19,12 +19,13 @@ namespace AppCar.infrustrcture.Repos
             _db = dBContext;
         }
 
-        public async Task AddAsync(CAR car)
+        public async Task<CAR> AddAsync(CAR car)
         {
           await  _db.Cars.AddAsync(car);
+            return car;
         }
 
-        public async Task DeleteAsync(int id)
+        public async Task<CAR> DeleteAsync(int id)
         {
             
             var car = await _db.Cars.SingleOrDefaultAsync(c=>c.CarId==id);
@@ -32,6 +33,7 @@ namespace AppCar.infrustrcture.Repos
             {
                 _db.Cars.Remove(car);
             }
+            return car;
         }
 
         public async Task<IEnumerable<CAR>> GetAllAsync()
@@ -51,12 +53,13 @@ namespace AppCar.infrustrcture.Repos
 
         public async Task<IEnumerable<CAR>> SearchAsync(string keyword)
         {
-           return  _db.Cars.Where(c => c.Brand.Contains(keyword) || c.Model.Contains(keyword)).AsEnumerable();
+           return await _db.Cars.Where(c => c.Brand.Contains(keyword) || c.Model.Contains(keyword)).ToListAsync();
         }
 
-        public Task UpdateAsync(CAR car)
+        public async Task<CAR> UpdateAsync(CAR car)
         {
-            return Task.Run(() => _db.Cars.Update(car));
+            _db.Cars.Update(car);
+            return  car;
         }
     }
 }

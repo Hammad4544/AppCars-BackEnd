@@ -11,7 +11,7 @@ namespace AppCar.infrustrcture.UnitOfWork
     public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDBContext _context;
-
+        public ICarRepository Cars { get; private set; }
         public IProductRepository Products { get; private set; }
         public ICategoryRepository Categories { get; private set; }
         public IOrderRepository Orders { get; private set; }
@@ -26,7 +26,9 @@ namespace AppCar.infrustrcture.UnitOfWork
             IOrderRepository orderRepository,
             IAuctionRepository auctionRepository,
             IBidRepository bidRepository,
-            INotificationRepository notificationRepository)
+            INotificationRepository notificationRepository
+            ,
+            ICarRepository cars)
         {
             _context = context;
             Products = productRepository;
@@ -35,6 +37,7 @@ namespace AppCar.infrustrcture.UnitOfWork
             Auctions = auctionRepository;
             Bids = bidRepository;
             Notifications = notificationRepository;
+            Cars = cars;
         }
 
         public async Task<int> SaveChangesAsync()

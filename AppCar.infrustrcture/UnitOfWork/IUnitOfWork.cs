@@ -9,6 +9,7 @@ namespace AppCar.infrustrcture.UnitOfWork
 {
     public interface IUnitOfWork : IDisposable
     {
+        ICarRepository Cars { get; }
         IProductRepository Products { get; }
         ICategoryRepository Categories { get; }
         IOrderRepository Orders { get; }

@@ -17,18 +17,20 @@ namespace AppCar.infrustrcture.Repos
         {
             _db = dBContext;
         }
-        public async Task AddAsync(Product product)
+        public async Task<Product> AddAsync(Product product)
         {
            await _db.Products.AddAsync(product);
+            return product;
         }
 
-        public  async Task DeleteAsync(int id)
+        public  async Task<Product> DeleteAsync(int id)
         {
             var product = await _db.Products.SingleOrDefaultAsync(p => p.ProductId == id);
             if (product != null)
             {
                 _db.Products.Remove(product);
             }
+            return product;
 
         }
 
@@ -53,10 +55,16 @@ namespace AppCar.infrustrcture.Repos
         }
 
         
-        public  Task UpdateAsync(Product product)
+        public  async Task<Product> UpdateAsync(int id)
         {
-            _db.Products.Update(product);
-            return Task.CompletedTask;
+            var product = await _db.Products.SingleOrDefaultAsync(p => p.ProductId == id);
+           
+            if (product != null)
+            {
+                _db.Products.Update(product);
+            }
+
+            return product; 
         }
     }
 }

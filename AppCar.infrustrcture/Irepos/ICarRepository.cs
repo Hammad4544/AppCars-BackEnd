@@ -12,9 +12,9 @@ namespace AppCar.infrustrcture.Irepos
     {
         Task<CAR> GetByIdAsync(int id);
         Task<IEnumerable<CAR>> GetAllAsync();
-        Task AddAsync(CAR car);
-        Task UpdateAsync(CAR car);
-        Task DeleteAsync(int id);
+        Task<CAR> AddAsync(CAR car);
+        Task<CAR> UpdateAsync(CAR car);
+        Task<CAR>  DeleteAsync(int id);
 
         // Business
         Task<IEnumerable<CAR>> GetByUserAsync(int userId);  // العربيات بتاعة يوزر معين

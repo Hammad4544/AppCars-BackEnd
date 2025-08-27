@@ -11,9 +11,9 @@ namespace AppCar.infrustrcture.Irepos
     {
         Task<Product> GetByIdAsync(int id);
         Task<IEnumerable<Product>> GetAllAsync();
-        Task AddAsync(Product product);
-        Task UpdateAsync(Product product);
-        Task DeleteAsync(int id);
+        Task<Product> AddAsync(Product product);
+        Task<Product> UpdateAsync(int id);
+        Task<Product> DeleteAsync(int id);
 
         // Business
         Task<IEnumerable<Product>> GetByCategoryAsync(int categoryId);
