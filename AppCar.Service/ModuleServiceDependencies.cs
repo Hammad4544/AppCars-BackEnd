@@ -19,6 +19,12 @@ namespace AppCar.Service
 
             
             services.AddScoped<ICarService, CarService>();
+            services.AddScoped<IAuctionService, AuctionService>();
+            services.AddScoped<IBidService, BidService>();
+            services.AddScoped<IOrderService, OrderService>();
+            services.AddScoped<IProductService,ProductService>();
+            services.AddScoped<INotificationService,NotificationService>();
+            services.AddScoped<ICategoryService, CategoryService>();
             return services;
         }
     }
