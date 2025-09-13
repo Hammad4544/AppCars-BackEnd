@@ -3,60 +3,40 @@
   "WorkspaceRootPath": "D:\\Hammad\\App_VS\\APPCar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|d:\\hammad\\app_vs\\appcar\\appcar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|solutionrelative:appcar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\handlers\\crearenewcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\handlers\\crearenewcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\handlers\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\handlers\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\modulecoredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\modulecoredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\models\\createnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\models\\createnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|d:\\hammad\\app_vs\\appcar\\appcar.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|solutionrelative:appcar.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\models\\getcarlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\models\\getcarlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\dtos\\addnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\dtos\\addnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\models\\getcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\models\\getcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\dtos\\displaycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\dtos\\displaycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\dtos\\displaylistofcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\dtos\\displaylistofcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\handlers\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\handlers\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\irepos\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\irepos\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|d:\\hammad\\app_vs\\appcar\\appcar.infrustrcture\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9402FC7-F1EE-4DF4-BCFC-B8E7FA5A8AF2}|AppCar.infrustrcture\\AppCar.infrustrcture.csproj|solutionrelative:appcar.infrustrcture\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\dtos\\displaycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\dtos\\displaycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,181 +54,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Program.cs",
-              "RelativeDocumentMoniker": "APPCar.Api\\Program.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Program.cs",
-              "RelativeToolTip": "APPCar.Api\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:36:10.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarProfile.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
-              "RelativeToolTip": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T15:01:35.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetCarListQuery.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Models\\GetCarListQuery.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Models\\GetCarListQuery.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Models\\GetCarListQuery.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Models\\GetCarListQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T13:44:23.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarHandler.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:14:37.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CarController.cs",
               "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Controllers\\CarController.cs",
               "RelativeDocumentMoniker": "APPCar.Api\\Controllers\\CarController.cs",
               "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Controllers\\CarController.cs",
               "RelativeToolTip": "APPCar.Api\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:26:56.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModuleCoreDependencies.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\ModuleCoreDependencies.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\ModuleCoreDependencies.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\ModuleCoreDependencies.cs",
-              "RelativeToolTip": "AppCar.Core\\ModuleCoreDependencies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:50:04.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetCarByIdHandler.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:31:57.171Z",
+              "WhenOpened": "2025-09-13T16:05:00.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GetCarQuery.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Models\\GetCarQuery.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Models\\GetCarQuery.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Models\\GetCarQuery.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Models\\GetCarQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "CarHandler.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Handlers\\CarHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:52:03.485Z",
+              "WhenOpened": "2025-09-13T16:00:35.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DisplayCar.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:22:16.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DisplayListOfCars.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayListOfCars.cs",
-              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayListOfCars.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayListOfCars.cs",
-              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayListOfCars.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:44:55.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "ICarRepository.cs",
               "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Irepos\\ICarRepository.cs",
               "RelativeDocumentMoniker": "AppCar.infrustrcture\\Irepos\\ICarRepository.cs",
               "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Irepos\\ICarRepository.cs",
               "RelativeToolTip": "AppCar.infrustrcture\\Irepos\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:51:10.795Z"
+              "WhenOpened": "2025-09-13T15:58:56.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\Repos\\CarRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wCYAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreareNewCarHandler.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:52:02.343Z"
+              "WhenOpened": "2025-09-13T15:55:26.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvxMAAABKAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateNewCar.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:09:54.559Z"
+              "WhenOpened": "2025-09-13T15:54:00.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "AppCar.infrustrcture\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.infrustrcture\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeToolTip": "AppCar.infrustrcture\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddNewCar.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:09:15.458Z"
+              "WhenOpened": "2025-09-13T15:52:46.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarProfile.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs*",
+              "RelativeToolTip": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:02:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCarByIdHandler.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:00:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayCar.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\DTOS\\DisplayCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:51:22.382Z",
+              "EditorCaption": ""
             }
           ]
         }

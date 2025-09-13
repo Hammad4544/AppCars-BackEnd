@@ -1,4 +1,5 @@
-﻿using AppCar.Core.features.Car.Queries.Models;
+﻿using AppCar.Core.features.Car.Commands.Models;
+using AppCar.Core.features.Car.Queries.Models;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -26,6 +27,12 @@ namespace APPCar.Api.Controllers
         public async Task<IActionResult> GetCarById(int id) { 
         
             var result = await _mediator.Send(new GetCarQuery(id));
+            return Ok(result);
+        }
+        [HttpPost("AddNewCar")]
+        public async Task<IActionResult> AddNewCar([FromBody] CreateNewCar command) { 
+        
+            var result = await _mediator.Send(command);
             return Ok(result);
         }
     }

@@ -1,4 +1,6 @@
-﻿using AppCar.Core.features.Car.Queries.DTOS;
+﻿using AppCar.Core.features.Car.Commands.DTOs;
+using AppCar.Core.features.Car.Commands.Models;
+using AppCar.Core.features.Car.Queries.DTOS;
 using AppCar.Data.Entities;
 using AutoMapper;
 using System;
@@ -17,6 +19,10 @@ namespace AppCar.Core.Mapping.CarMapping
                 .ForMember(dest => dest.StatusOfCar, opt => opt.MapFrom(src => src.Status));
             CreateMap<CAR, DisplayCar>().
                 ForMember(dest => dest.StatusOfCar, opt => opt.MapFrom(src => src.Status));
+            CreateMap<AddNewCar, CAR>();
+            CreateMap<CAR, AddNewCar>();
+            CreateMap<CreateNewCar, CAR>();
+
         }
     }
 }

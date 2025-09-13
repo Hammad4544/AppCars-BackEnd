@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCar.Date")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b6030fc8a2460cdc2142d6352edbd3a8cb4d87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ffef59e017f4ae692758c41f6aa27b7b27b3bd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCar.Date")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCar.Date")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

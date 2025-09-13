@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "APPCar.Api.Controllers.CarController",
+    "Method": "AddNewCar",
+    "RelativePath": "api/Car/AddNewCar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "AppCar.Core.features.Car.Commands.Models.CreateNewCar",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APPCar.Api.Controllers.CarController",
     "Method": "GetAllCar",
     "RelativePath": "api/Car/GetAllCars",
     "HttpMethod": "GET",

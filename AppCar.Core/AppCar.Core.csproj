@@ -21,8 +21,6 @@
     <Folder Include="features\Bid\Commands\Models\" />
     <Folder Include="features\Bid\Queries\Handlers\" />
     <Folder Include="features\Bid\Queries\Models\" />
-    <Folder Include="features\Car\Commands\Handlers\" />
-    <Folder Include="features\Car\Commands\Models\" />
     <Folder Include="features\Category\Commands\Handlers\" />
     <Folder Include="features\Category\Commands\Models\" />
     <Folder Include="features\Category\Queries\Handlers\" />

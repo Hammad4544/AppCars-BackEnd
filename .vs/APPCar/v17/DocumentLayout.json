@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Hammad\\App_VS\\APPCar\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|d:\\hammad\\app_vs\\appcar\\appcar.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C81ECED-367A-465D-9168-E33F6F04BE1F}|APPCar.Api\\APPCar.Api.csproj|solutionrelative:appcar.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\mapping\\carmapping\\carprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\models\\createnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\models\\createnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\handlers\\crearenewcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\handlers\\crearenewcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\commands\\dtos\\addnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\commands\\dtos\\addnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|d:\\hammad\\app_vs\\appcar\\appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26502C7-AE05-4F61-9870-E355E43C7F91}|AppCar.Core\\AppCar.Core.csproj|solutionrelative:appcar.core\\features\\car\\queries\\handlers\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarProfile.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "RelativeToolTip": "AppCar.Core\\Mapping\\CarMapping\\CarProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:29:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewCar.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\Models\\CreateNewCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:29:34.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewCar.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\DTOs\\AddNewCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:29:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "APPCar.Api\\Controllers\\CarController.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\APPCar.Api\\Controllers\\CarController.cs",
+              "RelativeToolTip": "APPCar.Api\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:25:28.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreareNewCarHandler.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Commands\\Handlers\\CreareNewCarHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:55:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCarByIdHandler.cs",
+              "DocumentMoniker": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "RelativeDocumentMoniker": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "ToolTip": "D:\\Hammad\\App_VS\\APPCar\\AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "RelativeToolTip": "AppCar.Core\\features\\Car\\Queries\\Handlers\\GetCarByIdHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:00:43.273Z",
+              "EditorCaption": ""
             }
           ]
         }
