@@ -14,7 +14,15 @@ namespace AppCar.infrustrcture
     {
         public static IServiceCollection AddInfrustrctureDependencies(this IServiceCollection services) {
            
+
             services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<IAuctionRepository, AuctionRepository>();
+            services.AddScoped<IBidRepository, BidRepository>();
+            services.AddScoped<IOrderRepository, OrderRepository>();
+            services.AddScoped<INotificationRepository, NotificationRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork.UnitOfWork>();
             return services;
         }

@@ -12,4 +12,30 @@
     <ProjectReference Include="..\AppCar.Service\AppCar.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="features\Auction\Commands\Handlers\" />
+    <Folder Include="features\Auction\Commands\Models\" />
+    <Folder Include="features\Auction\Queries\Handlers\" />
+    <Folder Include="features\Auction\Queries\Models\" />
+    <Folder Include="features\Bid\Commands\Handlers\" />
+    <Folder Include="features\Bid\Commands\Models\" />
+    <Folder Include="features\Bid\Queries\Handlers\" />
+    <Folder Include="features\Bid\Queries\Models\" />
+    <Folder Include="features\Car\Commands\Handlers\" />
+    <Folder Include="features\Car\Commands\Models\" />
+    <Folder Include="features\Category\Commands\Handlers\" />
+    <Folder Include="features\Category\Commands\Models\" />
+    <Folder Include="features\Category\Queries\Handlers\" />
+    <Folder Include="features\Category\Queries\Models\" />
+    <Folder Include="features\Product\Commands\Handlers\" />
+    <Folder Include="features\Product\Commands\Models\" />
+    <Folder Include="features\Product\Queries\Handlers\" />
+    <Folder Include="features\Product\Queries\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="13.0.0" />
+  </ItemGroup>
+
 </Project>

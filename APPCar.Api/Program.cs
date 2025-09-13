@@ -1,4 +1,5 @@
 
+using AppCar.Core;
 using AppCar.infrustrcture;
 using AppCar.infrustrcture.Irepos;
 using AppCar.infrustrcture.Repos;
@@ -27,7 +28,10 @@ namespace APPCar.Api
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             // Repositories
             builder.Services.AddInfrustrctureDependencies()
-                .AddServiceDependencies();
+                .AddServiceDependencies()
+                .AddCoreDependencies();
+            // MediatR and Handlers
+            
 
             var app = builder.Build();
 

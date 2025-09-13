@@ -11,7 +11,7 @@ namespace AppCar.infrustrcture.Irepos
     public interface ICarRepository
     {
         Task<CAR> GetByIdAsync(int id);
-        Task<IEnumerable<CAR>> GetAllAsync();
+        Task<List<CAR>> GetAllAsync();
         Task<CAR> AddAsync(CAR car);
         Task<CAR> UpdateAsync(CAR car);
         Task<CAR>  DeleteAsync(int id);

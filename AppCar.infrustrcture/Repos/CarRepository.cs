@@ -36,7 +36,7 @@ namespace AppCar.infrustrcture.Repos
             return car;
         }
 
-        public async Task<IEnumerable<CAR>> GetAllAsync()
+        public async Task<List<CAR>> GetAllAsync()
         {
             return await _db.Cars.ToListAsync();
         }
