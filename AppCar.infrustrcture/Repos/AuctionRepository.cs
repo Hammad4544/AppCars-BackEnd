@@ -18,6 +18,15 @@ namespace AppCar.infrustrcture.Repos
           _db=dBContext;
 
         }
+
+        public async Task<Auction> AddNewAuction(Auction auction)
+        {
+            
+             var res = await _db.Auctions.AddAsync( auction );
+            return res.Entity;
+
+        }
+
         public async Task EndAuctionAsync(int auctionId)
         {
             var auction = await _db.Auctions.SingleOrDefaultAsync(a => a.AuctionId == auctionId);

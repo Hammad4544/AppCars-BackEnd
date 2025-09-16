@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APPCar.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ffef59e017f4ae692758c41f6aa27b7b27b3bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea09ccd5f70af1a19c4dfa3ffc24a726258a8638")]
 [assembly: System.Reflection.AssemblyProductAttribute("APPCar.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APPCar.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

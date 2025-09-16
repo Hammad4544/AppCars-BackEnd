@@ -10,12 +10,12 @@ namespace AppCar.infrustrcture.Irepos
 {
     public interface IAuctionRepository
     {
-        Task<Auction> GetByIdAsync(int id);
-        Task<IEnumerable<Auction>> GetAllAsync();
+        Task<Auction> GetByIdAsync(int id);//done
+        Task<IEnumerable<Auction>> GetAllAsync();//done
         Task StartAuctionAsync(int carId, DateTime startTime, DateTime endTime);
         Task EndAuctionAsync(int auctionId);
         Task PlaceBidAsync(int auctionId, int userId, decimal amount);
-
+        Task<Auction> AddNewAuction(Auction auction);//done
         Task<IEnumerable<Auction>> GetActiveAuctionsAsync();
     }
 }

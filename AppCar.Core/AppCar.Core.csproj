@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="features\Auction\Commands\Handlers\" />
-    <Folder Include="features\Auction\Commands\Models\" />
-    <Folder Include="features\Auction\Queries\Handlers\" />
-    <Folder Include="features\Auction\Queries\Models\" />
     <Folder Include="features\Bid\Commands\Handlers\" />
     <Folder Include="features\Bid\Commands\Models\" />
     <Folder Include="features\Bid\Queries\Handlers\" />

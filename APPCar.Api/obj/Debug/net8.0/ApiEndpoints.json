@@ -1,5 +1,57 @@
 [
   {
+    "ContainingType": "APPCar.Api.Controllers.AuctionController",
+    "Method": "CreateNewAuction",
+    "RelativePath": "api/Auction/CreateNewAuction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newAuction",
+        "Type": "AppCar.Core.features.Auction.Commands.Models.AddNewAuctionQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APPCar.Api.Controllers.AuctionController",
+    "Method": "GetActiveAuctions",
+    "RelativePath": "api/Auction/GetActiveAuctions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APPCar.Api.Controllers.AuctionController",
+    "Method": "GetAll",
+    "RelativePath": "api/Auction/GetAllAuction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APPCar.Api.Controllers.AuctionController",
+    "Method": "GetAuctionById",
+    "RelativePath": "api/Auction/GetAuctionById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APPCar.Api.Controllers.CarController",
     "Method": "AddNewCar",
     "RelativePath": "api/Car/AddNewCar",
